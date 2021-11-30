@@ -1,0 +1,13 @@
+C:\Users\KOCAOGLU\Desktop\Ahmet (ORİJİNAL)\Program\TIXE_Projector\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\KOCAOGLU\Desktop\Ahmet (ORİJİNAL)\Program\TIXE_Projector\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\KOCAOGLU\Desktop\Ahmet (ORİJİNAL)\Program\TIXE_Projector\obj\Debug\TIXE_Projector.csprojAssemblyReference.cache
+C:\Users\KOCAOGLU\Desktop\Ahmet (ORİJİNAL)\Program\TIXE_Projector\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\KOCAOGLU\Desktop\Ahmet (ORİJİNAL)\Program\TIXE_Projector\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\KOCAOGLU\Desktop\Ahmet (ORİJİNAL)\Program\TIXE_Projector\obj\Debug\TIXE_Projector.csproj.ResolveComReference.cache
+C:\Users\KOCAOGLU\Desktop\Ahmet (ORİJİNAL)\Program\TIXE_Projector\obj\Debug\TIXE_Projector.Form1.resources
+C:\Users\KOCAOGLU\Desktop\Ahmet (ORİJİNAL)\Program\TIXE_Projector\obj\Debug\TIXE_Projector.csproj.GenerateResource.cache
+C:\Users\KOCAOGLU\Desktop\Ahmet (ORİJİNAL)\Program\TIXE_Projector\bin\Debug\TIXE_Projector.exe
+C:\Users\KOCAOGLU\Desktop\Ahmet (ORİJİNAL)\Program\TIXE_Projector\bin\Debug\TIXE_Projector.pdb
+C:\Users\KOCAOGLU\Desktop\Ahmet (ORİJİNAL)\Program\TIXE_Projector\obj\Debug\TIXEProjector.Properties.Resources.resources
+C:\Users\KOCAOGLU\Desktop\Ahmet (ORİJİNAL)\Program\TIXE_Projector\obj\Debug\TIXE_Projector.exe
+C:\Users\KOCAOGLU\Desktop\Ahmet (ORİJİNAL)\Program\TIXE_Projector\obj\Debug\TIXE_Projector.pdb
